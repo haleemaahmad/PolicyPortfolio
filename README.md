@@ -11,5 +11,8 @@
 
 ## Coursework & Projects
 **Public Interest Technology Fellowship**: *The Innovation Institute for Tomorrow*
+
 **Policy Innovation Lab**: *Department of Justice*
+
 **Consulting Lab**: *The Lively Minds Institute*
+
