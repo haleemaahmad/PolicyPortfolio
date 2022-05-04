@@ -25,9 +25,11 @@ January 2022 - May 2022
 [II4T Stakeholder Informational](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 **Policy Innovation Lab**: *Department of Justice*
+
 [Reframing Drug-Related Crimes as Public Health Crises](https://www.canva.com/design/DAE9pDxPhSU/uiR_tbEvqxWpDuQEg-FwWA/view?utm_content=DAE9pDxPhSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 **Consulting Lab**: *The Lively Minds Institute*
+
 Policy Analysis: [LMI Program Expansion Strategy](https://www.canva.com/design/DAEePWJKlbk/3zfYhG0ZDSA0tHYDz3w5gw/view?utm_content=DAEePWJKlbk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Projects & Work Samples
