@@ -19,9 +19,10 @@
 January 2022 - May 2022
 
 **Public Interest Technology Fellowship**: *The Innovation Institute for Tomorrow*
-Gender Gaps & Diversification [Playbook](https://www.canva.com/design/DAEmkS9BtuU/fgV_YuALYy16GBwVhZw16Q/view?utm_content=DAEmkS9BtuU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-II4T Stakeholder [Informational](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Gender Gaps & Diversification Playbook](https://www.canva.com/design/DAEmkS9BtuU/fgV_YuALYy16GBwVhZw16Q/view?utm_content=DAEmkS9BtuU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[II4T Stakeholder Informational](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 **Policy Innovation Lab**: *Department of Justice*
 [Reframing Drug-Related Crimes as Public Health Crises](https://www.canva.com/design/DAE9pDxPhSU/uiR_tbEvqxWpDuQEg-FwWA/view?utm_content=DAE9pDxPhSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
