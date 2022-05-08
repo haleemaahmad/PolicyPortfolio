@@ -41,7 +41,7 @@ Policy Analysis: [LMI Program Expansion Strategy](https://www.canva.com/design/D
 [Chicago Equity Advancement Proposal: Chicago Metropolitan Agency for Planning Local Technical Assistance Study](https://storymaps.arcgis.com/stories/63bbe67bea0541bd80379f3723d3b74a): Utilizing ArcGIS Pro to create an social development study for the City of Chicago Metropolitan Agency for Planning. 
 
 
-[Mapping Refugee Resettlement Resources in Illinois](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) Project Proposal
+[Mapping Refugee Resettlement Resources in Illinois](https://www.canva.com/design/DAE5msow9j4/EAgUDAg26QyqqOt2EHdkiw/view?utm_content=DAE5msow9j4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) Project Proposal
 
 
 **Data Analysis**
