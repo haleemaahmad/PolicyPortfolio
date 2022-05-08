@@ -38,10 +38,11 @@ Policy Analysis: [LMI Program Expansion Strategy](https://www.canva.com/design/D
 ## Projects & Work Samples
 
 **ArcGIS Pro** 
-[Chicago Equity Advancement Proposal: Chicago Metropolitan Agency for Planning Local Technical Assistance Study](https://storymaps.arcgis.com/stories/63bbe67bea0541bd80379f3723d3b74a): Utilizing ArcGIS Pro to create an social development study for the City of Chicago Metropolitan Agency for Planning. 
+Chicago Equity Advancement Proposal: [Chicago Metropolitan Agency for Planning Local Technical Assistance Study](https://storymaps.arcgis.com/stories/63bbe67bea0541bd80379f3723d3b74a) 
+Utilizing ArcGIS Pro to create an social development study for the City of Chicago Metropolitan Agency for Planning. 
 
 
-[Mapping Refugee Resettlement Resources in Illinois](https://www.canva.com/design/DAE5msow9j4/EAgUDAg26QyqqOt2EHdkiw/view?utm_content=DAE5msow9j4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) Project Proposal
+GIS Project Proposal: [Mapping Refugee Resettlement Resources in Illinois](https://www.canva.com/design/DAE5msow9j4/EAgUDAg26QyqqOt2EHdkiw/view?utm_content=DAE5msow9j4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 **Data Analysis**
@@ -53,7 +54,8 @@ Policy Analysis: [LMI Program Expansion Strategy](https://www.canva.com/design/D
 
 
 **Design Thinking** 
-[Design Workshop for Inclusive Girls Programming](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+Design Workshop: [Inclusive Girls Programming](https://www.canva.com/design/DAEtfAjN4R4/o1gf-14PJebwq2Dd6z29ag/view?utm_content=DAEtfAjN4R4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
-[Design Workshop to Bridging the Gender Pay Gap](https://www.canva.com/design/DAEg5AJui2Q/qpI_qi6z1FHIqCR2wsmFaw/view?utm_content=DAEg5AJui2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Design Workshop: [Bridging the Gender Pay Gap](https://www.canva.com/design/DAEsfGAAzyQ/bXb1FN-20tvRulka3eUNmw/view?utm_content=DAEsfGAAzyQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
