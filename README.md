@@ -18,6 +18,8 @@
 **Systems Synthesis Capstone Project**: *Pennsylvania Departnent of Transportation (PennDOT)*
 January 2022 - May 2022
 
+[Reaching Underserved Communities & Populations in Pennsylvania](https://drive.google.com/file/d/1MJWq0hpvmozDASXW3Jx1y3MFrl3-zLOg/view)
+
 
 **Public Interest Technology Fellowship**: *The Innovation Institute for Tomorrow*
 
